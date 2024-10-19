@@ -7,10 +7,10 @@
 - [Centro de estudios La Conservera](https://sites.google.com/view/fplaconservera)
 
 
-## Nivel Educativo
+## 📖 Nivel Educativo
 -  Centro Integral de Formación Profesional a Distancia "La Conservera"- Región de Murcia
 -  Formación Profesional de Grado Superior : DAM
-- ### Asignaturas matriculadas:
+- ### 📝 Asignaturas matriculadas:
 
 - Entornos de Desarrollo
 - Programación
@@ -21,14 +21,14 @@
 - Itinerario personal para la empleabilidad
 - Lenguajes de marcas y sistemas de gestión de información
  
-##  Stack Tecnológico Conocido
+##  🛠 Stack Tecnológico Conocido
 - HTML
 - CSS
 - JavaScript 
 - Git 
 - VSCod
 
-##  Stack Tecnológico del Curso
+## ️ Stack Tecnológico del Curso
 
 |Frameworks: |Bases de datos | Lenguajes de programación |
 |----|----|----|
@@ -41,3 +41,4 @@
 - Backend
 - Full-stack
 - Diseño UI/UX
+
