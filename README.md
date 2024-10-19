@@ -1,7 +1,7 @@
 # Raquel Losana Larrazábal
 
 ## Sobre mí
-<img src="https://raw.githubusercontent.com/DAMRaquel/DAMRaquel/main/7a1729a73d6a7d83bef9b252e5404f60.jpg" alt="Logo 1" width="100" height="100">
+<img src="https://raw.githubusercontent.com/DAMRaquel/DAMRaquel/refs/heads/main/banner-github.png" 
 - 👋 Hola, soy Raquel Losana, estudiante de murciaeduca.
 - [Centro de estudios La Conservera](https://sites.google.com/view/fplaconservera)
 
